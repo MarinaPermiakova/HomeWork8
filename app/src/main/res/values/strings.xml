@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HomeWork8</string>
+    <string name="start">\"старт: \"</string>
+    <string name="finish">\" окончаниe: \"</string>
+    <string name="error">Ошибка</string>
+    <string name="date_start">Дата-время старта задачи: \</string>
+    <string name="date_finish">Дата-время окончания задачи: \</string>
+    <string name="ok">OK</string>
+</resources>
